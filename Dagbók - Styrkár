@@ -1,7 +1,7 @@
 Dagbók.
 
 Fyrsti tími 29/11017
----------------------------------------------
+--------------------------------------------------------
 Í dag settum við upp tenginguna fyrir serverana,
 
 ég setti upp chrome og bætti við heimasíðunum
@@ -9,10 +9,10 @@ blockaði internet explorer
 og setti upp file qouta
 
 á meðal annars gerði eg líkla file permissions á serverinum
----------------------------------------------
+--------------------------------------------------------
 
 1/12/2017
-----------------------
+--------------------------------------------------------
 
 - setti upp Drifin
 - shared home folder
@@ -20,4 +20,14 @@ og setti upp file qouta
 - setti upp admins
 - setti upp allskonar réttindi á folders
 
-----------------------
+--------------------------------------------------------
+
+03/12/2017
+--------------------------------------------------------
+
+-tölvubraut fá start screen en ekki desktop
+-prentun getur ekki opnað task manager eða control panel
+-allir eru með bubbles screen saverinn
+-allir sjá file extensions
+
+--------------------------------------------------------
